@@ -1,0 +1,6 @@
+This favicon was generated using the following font:
+
+- Font Title: Libre Bodoni
+- Font Author: Copyright 2012 The Libre Bodoni Project Authors (https://github.com/googlefonts/Libre-Bodoni/)
+- Font Source: http://fonts.gstatic.com/s/librebodoni/v5/_Xm4-H45qDWDYULr5OfyZud9xBKfuwNnnsVZ_UUc9yjTdMTyQ3syLg.ttf
+- Font License: SIL Open Font License, 1.1 (http://scripts.sil.org/OFL))

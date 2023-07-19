@@ -1,0 +1,48 @@
+@import url('https://fonts.googleapis.com/css2?family=Ysabeau+Infant:wght@600&display=swap');
+
+* {
+    font-family: 'Ysabeau Infant', sans-serif;
+}
+
+.bannerBgImage {
+    height: 100vh;
+    background: url("/Portfolio/images/bannerimage.jpg");
+    background-size: cover;
+    position: relative;
+} 
+
+.bannerText{
+    text-align: right;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,  -50%);
+    color: white;
+}
+
+.bannerTitle{
+    font-size: 2rem;
+}
+
+.bannerDesc{
+    font-size: 4rem;
+}
+.card{
+    cursor: pointer;
+    transition: transform 0.3s ease;
+}
+.card:hover{
+    background-color:burlywood;
+    border: 5px solid goldenrod;
+    transform: translateY(-30px);
+}
+
+.bIcon{
+    width: 100%;
+    text-align: center;
+    font-size: 40px;
+}
+
+.card-img-top{
+    height: 50vh;
+}
