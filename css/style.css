@@ -46,3 +46,12 @@
 .card-img-top{
     height: 50vh;
 }
+footer {
+    background-color:darkslategray;
+    padding: 20px;
+    text-align: center;
+  }
+  
+  footer p {
+    margin: 0;
+  }
